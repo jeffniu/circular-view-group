@@ -75,3 +75,6 @@ and Now use code like this
 /master/screenshot.png" width="1072" height="1280"/>
 
 
+![Screenshot](screenshot.png)
+
+
