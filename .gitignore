@@ -20,4 +20,4 @@ bin/
 gen/
 
 *.iml
-.idea
+/.idea
