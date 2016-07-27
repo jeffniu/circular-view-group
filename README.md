@@ -47,11 +47,6 @@ and Now use code like this
             android:src="@mipmap/ic_launcher"
             />
         <ImageView
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:src="@mipmap/ic_launcher"
-        />
-        <ImageView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:src="@mipmap/ic_launcher"
@@ -74,4 +69,9 @@ and Now use code like this
     </in.jogindersharma.circularviewgroup.CircularViewGroup>
     
 ```
+
+<img alt="Screenshot" 
+       src="https://raw.githubusercontent.com/joginder89/circular-view-group
+/master/screenshot.png" width="1072" height="1280"/>
+
 
